@@ -2,11 +2,11 @@
 
 This hack for AHW implements basic Bayesian inference and MCMC to peform the profile-fitting of cluster weak lensing data from CS82 survey.
 
-The codes here performs:
+The codes here perform:
 
 - Bayesian inference in a grid
-- MCMC:Metropolis
-- MCMC:emcee
+- MCMC: Metropolis
+- MCMC: emcee
 - Corner plots
 - Visual model-checking
 
